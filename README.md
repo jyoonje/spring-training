@@ -2,7 +2,7 @@
 <center><img width="100%" src="https://github.com/minsuzzang/final-project/assets/150643135/dea6651c-637a-4bd1-b414-c40dedbb7c31"></center>
 
 
-# 👨‍💼💼👩‍ [JESS 4-CARD]  (2024.01 ~ 24.02)
+# 👨‍💼💼👩‍ [JESS 4-CARD]  (24.01 ~ 24.02)
 
 ![image](https://github.com/minsuzzang/final-project/assets/150825231/15bd0854-b2f5-40db-ab0e-2aebc8d8b11f)
 

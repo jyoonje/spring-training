@@ -22,8 +22,8 @@
 <br/><br/>
 
 
-## 👨‍👨‍협업 방식<br>
-<img width="100%" src="https://github.com/minsuzzang/final-project/assets/150825231/2ce71424-0451-4adf-a7f8-c589d3947f3e"></center><br>
+## 👨‍💼💼👩코드리뷰 규칙<br>
+![image](https://github.com/minsuzzang/final-project/assets/150825231/2ce71424-0451-4adf-a7f8-c589d3947f3e)></center><br>
 
 
 <br/><br/>

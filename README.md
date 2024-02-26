@@ -4,7 +4,6 @@
 
 # 👨‍💼💼👩‍ [JESS 4-CARD]  (2024.01 ~ 24.02)
 
-(🔎 소개)
 ![image](https://github.com/minsuzzang/final-project/assets/150825231/15bd0854-b2f5-40db-ab0e-2aebc8d8b11f)
 
 
@@ -114,10 +113,9 @@
           <img src="https://img.shields.io/badge/엄윤호-ff5e5e?style=flat-round&logo=GitHub&logoColor=white"/>
          <img width="100%" src="https://avatars.githubusercontent.com/u/51091854?v=4"  alt=""/>
         </a>
-        <center>관리자 약관 관리(CRUD)</center><br>
-        <center>기업 약관 관리(CRUD)</center><br>
-        <center>지원자 지원 현황 통계</center><br>
-        <center>기업 가입 현황 통계</center><br>
+        <center>전반적인 프로젝트 기획</center><br>
+        <center>디자인 담당자</center><br>
+        <center>퍼블리싱 담당자</center><br>
       </td>
       <td align="center" width="200px">
         <center>BE. 팀원</center><br>

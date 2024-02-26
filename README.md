@@ -123,7 +123,7 @@
       <td align="center" width="200px">
         <center>BE. 팀원</center><br>
         <a href="https://github.com/minsuzzang">
-          <img src="https://img.shields.io/badge/김우석-34bfa6?style=flat-round&logo=GitHub&logoColor=white"/>
+          <img src="https://img.shields.io/badge/손민수-34bfa6?style=flat-round&logo=GitHub&logoColor=white"/>
          <img width="100%" src="https://avatars.githubusercontent.com/u/51091854?v=4"  alt=""/>
         </a>
         <center>DB 설계</center><br>

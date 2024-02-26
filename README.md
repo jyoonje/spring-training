@@ -1,4 +1,4 @@
-<center><img width="100%" src="https://github.com/minsuzzang/final-project/assets/150825231/09a30be0-9290-4037-ae2d-3f4fc72e0c8d"></center>
+<center><img width="100%" src="https://github.com/minsuzzang/final-project/assets/150825231/c42773ad-76d2-4b50-ad26-9aa8d2b165e4"></center>
 <center><img width="100%" src="https://github.com/minsuzzang/final-project/assets/150643135/dea6651c-637a-4bd1-b414-c40dedbb7c31"></center>
 
 

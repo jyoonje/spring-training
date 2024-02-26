@@ -23,7 +23,7 @@
 
 
 ## 👨‍👨‍협업 방식<br>
-<img width="100%" src="https://user-images.githubusercontent.com/113500771/230946054-84fc3a39-2aa2-4370-a91b-d6a54a9dd20e.png"></center><br>
+<img width="100%" src="https://github.com/minsuzzang/final-project/assets/150825231/2ce71424-0451-4adf-a7f8-c589d3947f3e"></center><br>
 
 
 <br/><br/>

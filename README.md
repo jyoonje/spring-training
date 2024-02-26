@@ -11,12 +11,6 @@
 (🔎 개인회원)
 <br><img src="https://user-images.githubusercontent.com/109578096/234508264-55798e30-9d67-47c7-87f9-04ccb8ffa233.gif"></br>
 
-<br></br>소개 :
-
-- :page_with_curl: Check out our project documents at [<img src="https://img.shields.io/badge/Notion-000000?style=flat-round&logo=Notion&logoColor=white"/>](https://www.notion.so/2-61e48e6a682e4d7191fc2993b91b0665)
-- :construction: :triangular_ruler: Check out our [<img src="https://img.shields.io/badge/Project%20Structure-555555?style=flat-round&logo=filetree&logoColor=white"/>](https://) 
-- Check out our <b>Backend Interim Design Review(Kor)</b> at  [<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-round&logo=YouTube&logoColor=white"/>](https://youtu.be/6pX8QydgdeI)
-- :construction: :clapper: Check out short demonstration clip of our project at [<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-round&logo=YouTube&logoColor=white"/>](https://)
 
 
 <br/><br/>
@@ -30,120 +24,65 @@
 
 
 ## :construction: :mortar_board: 프로젝트 목표 (Project Goals)
-1. Nginx, Jenkin를 통한 CICD를 구현해보자!
-2. Https, JWT를 활용하여 보안을 강화하자!
-3. ERD 정규화를 실현해보자!
-4. 팀원들이 이해하기 쉬운 코드 작성과 컨벤션을 지키자!
-5. 원활한 소통과 기록을 남기자!
-6. 팀원 모두 전체 프로젝트에 대한 이해를 갖자!
-7. UXUI, 프론트엔드 개발자분들과의 협업을 경험해보자!
-8. 익숙하지 않은 기능들을 중심으로 역할 분담하여 공부하자!
-9. 현업에 적용할 수 있는 최신 기술들을 사용하자!
-10. 즐기자!!! :satisfied:  
+1. 팀원들이 이해하기 쉬운 코드 작성과 컨벤션을 지키자!
+2. ERD 정규화를 실현해보자!
+3. 원활한 소통과 기록을 남기자!
+4. 팀원 모두 전체 프로젝트에 대한 이해를 갖자!
+5. UXUI, 프론트엔드 개발자분과의 협업을 경험해보자!
+6. 익숙하지 않은 기능들을 중심으로 역할 분담하여 공부하자!
+7. 즐기자!!! :satisfied:  
 
 
 <br/><br/>
 
 
-## :construction: :hammer: 기술 스택 (Technologies Used) - 예시
+## :construction: :hammer: 기술 스택 (Technologies Used)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-round&logo=Java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-round&logo=Spring%20Boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-round&logo=Spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-round&logo=Spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-round&logo=Spring&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-round&logo=Oracle&logoColor=white)
 
 ![Lombok](https://img.shields.io/badge/Lombok-BC2055?style=flat-round&logo=Lombok&logoColor=white)
-![JSON Web Tokens](https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=flat-round&logo=json-web-tokens)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-round&logo=MariaDB&logoColor=white)
-![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-round&logo=amazon-aws&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-round&logo=apachemaven&logoColor=white)
+![jquery](https://img.shields.io/badge/jquery-0769AD?style=flat-round&logo=jquery&logoColor=white)
 
-- Spring Boot 2.7.9 
-- Spring Security 2.7.9
-- JPA 2.7.9
-- jwt 0.11.5
+- Spring 5.3.24 
+- Spring Security 5.3.13
+- MyBatis 3.4.1
 - JAVA 11
 - JDK 11
-- lombok 1.18.26
-- RDS MySQL 8.0.28
-- AWS EC2 Ubuntu 20.04
-- Jenkins 2.387.1
-- Nginx 
-
-<img width="5%"/><img width="5%" src="https://techstack-generator.vercel.app/java-icon.svg"/>
-<img width="5%" src="https://techstack-generator.vercel.app/nginx-icon.svg"/>
-<img width="5%" src="https://techstack-generator.vercel.app/nginx-icon.svg"/>
-<img width="5%" src="https://techstack-generator.vercel.app/nginx-icon.svg"/>
-<img width="5%" src="https://techstack-generator.vercel.app/nginx-icon.svg"/>
-<img width="5%" src="https://techstack-generator.vercel.app/nginx-icon.svg"/>
-<img width="5%" src="https://techstack-generator.vercel.app/docker-icon.svg"/>
-<img width="5%" src="https://techstack-generator.vercel.app/mysql-icon.svg"/>
-<img width="5%" src="https://techstack-generator.vercel.app/aws-icon.svg"/>
-<img width="5%" src="https://techstack-generator.vercel.app/github-icon.svg"/>
-
-
-
-## :pushpin: API 기능명세서 (API Documentation) 
-- <b>백엔드</b> 프로젝트 타임라인, 진행도 그리고 담당자 [<img src="https://img.shields.io/badge/XLSX-green?style=flat-round&logo=microsoft-excel&logoColor=white"/>](https://docs.google.com/spreadsheets/d/1hp8n-RCXBAU7vBZuKfc3hRU249YZBqq2HSpNNU3kK0M/edit#gid=2023094119)
-- <b>프론트엔드</b> 프로젝트 타임라인, 진행도 그리고 담당자 [<img src="https://img.shields.io/badge/XLSX-green?style=flat-round&logo=microsoft-excel&logoColor=white"/>](https://docs.google.com/spreadsheets/d/1OohcrwOS-QbkHMW4zawMep3D80FAdzSMYDGCe0Pud4k/edit#gid=1709744959)
-
-
-<br/><br/>
-
-## 아키텍쳐
-![image](https://user-images.githubusercontent.com/51091854/232758606-98c1834d-c613-4e6a-9fb7-00fde5c61638.png)
-
-
-## :floppy_disk: ER 다이어그램 (ER-Diagram with Cardinality Constraints)
-![image](https://user-images.githubusercontent.com/113500771/230943681-93c795bd-c802-4174-9d80-74bba361c150.png)
+- lombok 1.18.24
+- Oracle28
 
 
 <br/><br/>
 
 
-## :construction: :inbox_tray: 설치 (Installation)
-1. 백엔드 레포지토리를 클론합니다. 'git clone https://github.com/fastcampus-mini/credit-market-BE.git'
-2. 설치 방법2
-3. 설치 방법3
+## :earth_asia: 요구 사항
+- 사용자
+1. 사용자는 이메일, 비밀번호, 이름 ,전화번호를 입력하고 회원가입을 합니다.​
+2. 사용자는 비밀번호 분실 시 본인의 이메일로 임시 비밀번호를 받을 수 있습니다.​
+3. 사용자는 My Account에서 내정보, 내카드, 이용내역을 확인 할 수 있습니다.​ <br/>
 
-<br/><br/> 
+- 관리자
+1. 관리자 계정으로 공지사항 작성, 고객문의 답변을 할 수 있습니다.​
+2. 관리자 페이지에서 카드신청 승인/거절을 할 수 있습니다.​ <br/>
 
+- 카드발급
+1. 사용자는 원하는색상,디자인의 카드를 신청하고 난 후 관리자의 승인을 받을 수 있습니다.​
+2. 관리자가 승인한 카드에 세부정보를 입력한 후 최종 발급을 받을 수 있습니다.​
+3. 사용자는 하나의 계정에 최대 3개의 카드만 가질 수 있습니다.​
+4. 카드 분실 신고를 하면 DB에서 해당 카드정보가 삭제됩니다.​ <br/>
 
-## :earth_asia: 사용 (Usage)
-- 개인회원
-1. 회원가입을 한다.
-2. 이력서를 등록한다.
-3. 채용공고를 검색하여 지원한다.
-4. 이메일을 수시로 확인하여 연락을 기다린다.
-5. 필요하면 캘린더을 이용하여 메모한다.
-6. 뭘 해야할지 모를땐 챗봇에게 물어본다.
-<br/>
-
-- 기업회원
-1. 회원가입을 한다.
-2. 채용공고와 약관을 등록한다.
-3. 지원자에 대한 1차, 2차 합/불합 이메일을 발송시킨다
-4. 필요하면 지원자에 대한 메모를 작성할 수 있다
-5. 개인회원과 같이 캘린더를 이용하여 일정을 작성할 수 있다.
-6. 지원자에 대한 통계를 확인 할 수 있다.
-7. 뭘 해야할지 모를땐 챗봇에게 물어본다.
-<br/>
-
-- 슈퍼관리자
-1. 로그인을 하여 약관을 등록,조회,수정 관리할 수 있다.
-2. 스팸, 광고 등 부적절한 채용공고 삭제할 수 있다.
-3. 개인회원, 기업회원을 관리할 수 있다.
-4. 지원자, 기업회원의 통계를 확인하여 정보를 얻을 수 있다.
-
-
+- 제품구매
+1. 사용자는 제품구매를 할 수 있습니다. 제품구매는 일반구매와 할인구매로 나뉘어 있습니다.​
+2. 일반구매는 kakao api 결제로, 할인이나 적립이 적용되지 않습니다.​
+3. 할인구매는 발급된 현대카드로 결제합니다. 발급된 카드색상, 디자인을 선택하고 카드정보를 입력 한 후 다음으로 넘어갑니다.​
+4. 현대카드로 상품 구매시 마일리지가 적립되고, 적립된 마일리지를 사용 할 수 있습니다.
 
 
 <br/><br/>
 
-
-## :unlock: 라이센스 (Licence)
-This project is licensed under the MIT License.
-
-
-<br/><br/>
 
 
 ## :sunglasses: Member Contact Information
@@ -153,30 +92,28 @@ This project is licensed under the MIT License.
     <tr>
       <td align="center" width="200px">
         <center>BE. 팀장</center><br>
-        <a href="https://github.com/HongGuma">
-          <img src="https://img.shields.io/badge/홍수희-6e34bf?style=flat-round&logo=GitHub&logoColor=white"/>
-        <img width="100%" src="https://avatars.githubusercontent.com/u/51091854?v=4"  alt=""/>
+        <a href="https://github.com/jyoonje">
+          <img src="https://img.shields.io/badge/정윤제-6e34bf?style=flat-round&logo=GitHub&logoColor=white"/>
         </a>
         <center>CI/CD</center><br>
-        <center>서버 배포</center><br>
-        <center>기업 채용 공고 CRUD</center><br>
-        <center>기업에 지원한 지원자 CRUD</center><br>
+        <center>카드발급 CRUD</center><br>
+        <center>각종 공통 기능 구현</center><br>
+        <center>테스트 코드</center><br>
       </td>
       <td align="center" width="200px">
         <center>BE. 팀원</center><br>
-        <a href="https://github.com/724thomas">
-          <img src="https://img.shields.io/badge/최원준-345ebf?style=flat-round&logo=GitHub&logoColor=white"/>
+        <a href="https://github.com/jsh10151">
+          <img src="https://img.shields.io/badge/정수환-345ebf?style=flat-round&logo=GitHub&logoColor=white"/>
         <img width="100%" src="https://avatars.githubusercontent.com/u/113500771?v=4"  alt=""/>
         </a>
-        <center>DB 설계</center><br>
-        <center>개인 AI 비서</center><br>
-        <center>파일 입출력</center><br>
-        <center>JWT 관련</center><br>
+        <center>로그인/회원가입</center><br>
+        <center>아이디/비밀번호 찾기</center><br>
+        <center>마이페이지</center><br>
       </td>
       <td align="center" width="200px">
         <center>BE. 팀원</center><br>
-        <a href="https://github.com/smallsnail-study">
-          <img src="https://img.shields.io/badge/곽윤희-ff5e5e?style=flat-round&logo=GitHub&logoColor=white"/>
+        <a href="https://github.com/minsuzzang">
+          <img src="https://img.shields.io/badge/엄윤호-ff5e5e?style=flat-round&logo=GitHub&logoColor=white"/>
         <img width="100%" src="https://avatars.githubusercontent.com/u/109578096?v=4"  alt=""/>
         </a>
         <center>관리자 약관 관리(CRUD)</center><br>
@@ -186,7 +123,7 @@ This project is licensed under the MIT License.
       </td>
       <td align="center" width="200px">
         <center>BE. 팀원</center><br>
-        <a href="https://github.com/flimberkim">
+        <a href="https://github.com/minsuzzang">
           <img src="https://img.shields.io/badge/김우석-34bfa6?style=flat-round&logo=GitHub&logoColor=white"/>
         <img width="100%" src="https://avatars.githubusercontent.com/u/113500922?v=4"  alt=""/>
         </a>

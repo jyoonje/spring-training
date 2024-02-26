@@ -4,12 +4,8 @@
 
 # 👨‍💼💼👩‍ [JESS 4-CARD]  (2024.01 ~ 24.02)
 
-(🔎 관리자)
-<br><img src="https://user-images.githubusercontent.com/109578096/234488289-b06614d1-7093-4c61-8927-b7e3216c6a03.gif"></br>
-(🔎 기업회원)
-<br><img src="https://user-images.githubusercontent.com/109578096/234498796-9e97450c-c561-45c8-8bbe-ad9e8de46bc7.gif"></br>
-(🔎 개인회원)
-<br><img src="https://user-images.githubusercontent.com/109578096/234508264-55798e30-9d67-47c7-87f9-04ccb8ffa233.gif"></br>
+(🔎 소개)
+![image](https://github.com/minsuzzang/final-project/assets/150825231/15bd0854-b2f5-40db-ab0e-2aebc8d8b11f)
 
 
 
@@ -94,27 +90,29 @@
         <center>BE. 팀장</center><br>
         <a href="https://github.com/jyoonje">
           <img src="https://img.shields.io/badge/정윤제-6e34bf?style=flat-round&logo=GitHub&logoColor=white"/>
+        <img width="100%" src="https://avatars.githubusercontent.com/u/51091854?v=4"  alt=""/>
         </a>
         <center>CI/CD</center><br>
         <center>카드발급 CRUD</center><br>
-        <center>각종 공통 기능 구현</center><br>
-        <center>테스트 코드</center><br>
+        <center>각종 공통 기능 관리</center><br>
+        <center>테스트 코드 관리</center><br>
       </td>
       <td align="center" width="200px">
         <center>BE. 팀원</center><br>
         <a href="https://github.com/jsh10151">
           <img src="https://img.shields.io/badge/정수환-345ebf?style=flat-round&logo=GitHub&logoColor=white"/>
-        <img width="100%" src="https://avatars.githubusercontent.com/u/113500771?v=4"  alt=""/>
+        <img width="100%" src="https://avatars.githubusercontent.com/u/51091854?v=4"  alt=""/>
         </a>
-        <center>로그인/회원가입</center><br>
+        <center>로그인/회원가입 관리</center><br>
         <center>아이디/비밀번호 찾기</center><br>
-        <center>마이페이지</center><br>
+        <center>이메일 전송 기능</center><br>
+        <center>마이페이지 CRUD</center><br>
       </td>
       <td align="center" width="200px">
         <center>BE. 팀원</center><br>
-        <a href="https://github.com/minsuzzang">
+        <a href="https://github.com/EomYoonHo">
           <img src="https://img.shields.io/badge/엄윤호-ff5e5e?style=flat-round&logo=GitHub&logoColor=white"/>
-        <img width="100%" src="https://avatars.githubusercontent.com/u/109578096?v=4"  alt=""/>
+         <img width="100%" src="https://avatars.githubusercontent.com/u/51091854?v=4"  alt=""/>
         </a>
         <center>관리자 약관 관리(CRUD)</center><br>
         <center>기업 약관 관리(CRUD)</center><br>
@@ -125,12 +123,12 @@
         <center>BE. 팀원</center><br>
         <a href="https://github.com/minsuzzang">
           <img src="https://img.shields.io/badge/김우석-34bfa6?style=flat-round&logo=GitHub&logoColor=white"/>
-        <img width="100%" src="https://avatars.githubusercontent.com/u/113500922?v=4"  alt=""/>
+         <img width="100%" src="https://avatars.githubusercontent.com/u/51091854?v=4"  alt=""/>
         </a>
-        <center>로그인/인증관련 기능</center><br>
-        <center>이메일 알림 서비스 기능</center><br>
-        <center>일정(CRUD) 기능</center><br>
-        <center>공고조회 기능</center><br>
+        <center>DB 설계</center><br>
+        <center>공지사항/고객문의 관리</center><br>
+        <center>결제 기능 관리</center><br>
+        <center>관리자 기능 CRUD</center><br>
       </td>
      </tr>
   </tbody>
@@ -140,18 +138,17 @@
 <br/><br/>
 
 
-## :relaxed: 프로젝트 회고(Reflection Report) 
-![image](https://user-images.githubusercontent.com/113500771/230945225-27c6eaa5-5e01-490c-915f-305b54443934.png)
-![image](https://user-images.githubusercontent.com/113500771/230945548-f28d5048-8410-40b2-80c1-e418e0b0f918.png)
+## :relaxed: 프로젝트 후기(Reflection Report) 
+![image](https://github.com/minsuzzang/final-project/assets/150825231/be11b6ce-8490-409e-8f42-3711a6f327d8)
+
 
 
 <br/><br/>
 
 
 ## :pray: 감사의말 (Acknowledgements)
-"막히거나 잘 이해가 안되는 부분들을 자세하게 설명해주시는 등 많은 도움을 주신 최진영 멘토님께 감사드립니다."<br>
-"프론트엔드분들의 빠른 피드백과 다소 무리한 의견들에 대해서도 흔쾌히 반영해주셔서 감사합니다."<br>
-"UXUI의 화려한 UI 디자인과 원활한 상호협력에 대하여 감사드립니다."<br>
-"저희 팀원들에게 프로젝트에 대한 엄청난 노력과 열정, 그리고 헌신에 감사드립니다."<br>
+"막히거나 잘 이해가 안되는 부분들을 자세하게 설명해주시는 등 많은 도움을 주신 김재섭 선생님께 감사드립니다."<br>
+"백엔드분들의 빠른 피드백과 다소 무리한 의견들에 대해서도 흔쾌히 반영해주신 엄윤호 팀원님께 감사합니다."<br>
+"저희 팀원들에게 프로젝트에 대한 노력과 열정, 그리고 헌신에 감사드립니다."<br>
 
 <br/><br/>

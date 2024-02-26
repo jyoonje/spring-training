@@ -1,5 +1,4 @@
-<center>![KakaoTalk_20240226_123001568](https://github.com/minsuzzang/final-project/assets/150825231/09a30be0-9290-4037-ae2d-3f4fc72e0c8d)
-</center>
+<center><src="https://github.com/minsuzzang/final-project/assets/150825231/09a30be0-9290-4037-ae2d-3f4fc72e0c8d"></center>
 <center><img width="100%" src="https://github.com/minsuzzang/final-project/assets/150643135/dea6651c-637a-4bd1-b414-c40dedbb7c31"></center>
 
 
